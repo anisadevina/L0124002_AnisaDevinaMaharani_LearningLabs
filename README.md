@@ -1,8 +1,6 @@
 # L0124002_AnisaDevinaMaharani_LearningLabs
 Website yang saya buat ini berisi tentang fashion trends yang jarang ditemui di Indonesia. Saya ingin memberikan informasi tentang berbagai tren yang sedang populer di luar sana yang mungkin masih banyak yang belum mengetahui. Dengan tampilan yang mudah dinavigasi, desainnya sederhana dan menarik. Saya menggunakan warna-warna lembut agar pengunjung merasa nyaman. Gambar inspirasi fashion disusun dalam kotak-kotak di halaman utama sehingga pembaca dapat melihat berbagai gaya fashion.
 
-Selain itu, situs web ini menyediakan penjelasan singkat tentang berbagai tren fashion, seperti Bohemian, Lolita, dan Y2K. Setiap tren dijelaskan dengan bahasa yang sederhana dan mudah dimengerti. Penjelasan yang ringkas namun informatif memungkinkan pengunjung untuk memahami lebih jauh tentang setiap tren dan apa yang menjadi dasar dari gaya tersebut.
-
 Beberapa fitur navigasi yang ada di situs web ini adalah sebagai berikut:
 1. Homepage: Di halaman utama, pengunjung akan disambut dengan dengan gambar inspirasi outfit yang menampilkan berbagai tren fashion. Dengan desain ini, pengunjung dapat dengan cepat melihat berbagai outfit.
 2. Trends: Setiap tren fashion, seperti Lolita, Y2K, dan Bohemian, akan dideskripsikan dengan singkat. Penjelasan diberikan dalam bahasa yang sederhana dan mudah dipahami, sehingga pengunjung dapat lebih memahami tren fashion tersebut.
